@@ -31,6 +31,9 @@
 <h3>Sum of All Fish Caught by District between 2020 - 2022</h3>
 <img src="images/sum_fish_district_2020-2022.jpg" alt="Sum of All Fish Caught by District and Year">
 
+<h3>Example of Forecasting using Prophet (Wild MSW Catch) </h3>
+<img src="images/Wild MSW Forecast" alt="Sum of All Fish Caught by District and Year">
+
 
 <h2 id="model-building">Model Building</h2>
 <p>Various predictive models were built and evaluated to forecast future trends in salmon catching.</p>
