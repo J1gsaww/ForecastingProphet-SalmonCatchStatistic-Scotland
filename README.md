@@ -15,6 +15,12 @@
 
 <h3>Amount of Each Type of Fish Caught in Each Year</h3>
 <img src="images/fish_by_year.jpg" alt="Amount of Each Type of Fish Caught in Each Year">
+<h4> Trend Analysis </h4>
+<p> - There is a noticeable decline in the amount of fish caught across all types from the peak in the mid-1990s to 2020. </p>
+<p> - Wild_1SW and Wild_MSW have the most significant declines, while Finnock and Sea_trout also show a reduction. </p>
+<h4> Key Observations: </h4>
+<p> - The decline in all types of fish suggests a broader ecological issue affecting all fish populations. </p>
+<p> - Potential reasons could include overfishing, climate change, pollution, and changes in water quality or habitat.</p>
 
 <h3>Proportion by Fishing Method</h3>
 <img src="images/method_proportion.jpg" alt="Proportion by Fishing Method">
