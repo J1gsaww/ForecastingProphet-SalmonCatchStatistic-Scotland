@@ -1,10 +1,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Salmon Catching Data Analysis</title>
-</head>
-<body>
     <h1>Salmon Catching Data Analysis</h1>
     <p>This project analyzes salmon catching data to gain insights and make predictions.</p>
     <h2>Table of Contents</h2>
@@ -49,5 +45,4 @@
     </ul>
     <h2>Conclusion</h2>
     <p>This project provides a comprehensive analysis of salmon catching data and demonstrates various data science techniques, from data cleaning to model building.</p>
-</body>
 </html>
