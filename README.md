@@ -62,20 +62,3 @@
 <h2 id="model-building">Model Building</h2>
 <p>Various predictive models were built and evaluated to forecast future trends in salmon catching.</p>
 
-<h2 id="conclusion">Conclusion</h2>
-<p>This project provides a comprehensive analysis of salmon catching data and demonstrates various data science techniques, from data cleaning to model building.</p>
-<h2>Data</h2>
-<p>The dataset used for this analysis contains information about salmon catching incidents, including various features that can be used for predictive modeling.</p>
-<h2>Usage</h2>
-<p>To run the notebook and replicate the analysis, you need to have Jupyter Notebook installed. Load the notebook and run each cell sequentially.</p>
-<h2>Requirements</h2>
-<p>The following Python libraries are required:</p>
-<ul>
-<li>pandas</li>
-<li>numpy</li>
-<li>matplotlib</li>
-<li>seaborn</li>
-<li>scikit-learn</li>
-</ul>
-<h2>Conclusion</h2>
-<p>This project provides a comprehensive analysis of salmon catching data and demonstrates various data science techniques, from data cleaning to model building.</p>
